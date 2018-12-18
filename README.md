@@ -1,2 +1,2 @@
 # AlgorithmQuestionTree
-算法实体技术研究
+算法试题技术研究
